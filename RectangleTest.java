@@ -20,6 +20,7 @@ public class RectangleTest {
  } else {
      System.out.println("---- Test failed: Expected " + expectedArea + " but got " + area);
  }
+
     }
 
 }
